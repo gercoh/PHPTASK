@@ -1,0 +1,23 @@
+#scroller_container {
+
+    position: relative;
+    
+    width: 600px;
+    
+    height: 60px;
+    
+    overflow: hidden;
+    
+    }
+    
+    #scroller {
+    
+    white-space: nowrap;
+    
+    line-height: 60px;
+    
+    font-size: 36px;
+    
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    
+    }
